@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">successful_success</string>
+    <string name="choosing_a_city">your_city</string>
+    <string name="title_activity_city_maps">CityMapsActivity</string>
+    <string name="city_map_activity">Здесь вы можете указать ваш город:</string>
+    <string name="your_city">Ваш город</string>
+    <string name="name_city">Location</string>
+    <string name="conditions_info">Туман</string>
+    <string name="settings">settings</string>
+    <string name="setting">Настройки</string>
+    <string name="pressure">Показывать атмосферное давление</string>
+    <string name="fell_like_temperature">Показывать темературу по ощущению</string>
+</resources>
