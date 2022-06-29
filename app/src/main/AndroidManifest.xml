@@ -14,9 +14,6 @@
         android:theme="@style/Theme.Successful_success" >
 
         <activity
-            android:name=".City_Map_Activity"
-            android:screenOrientation="portrait" />
-        <activity
             android:name=".MainActivity"
             android:exported="true"
             android:screenOrientation="portrait" >
@@ -28,6 +25,9 @@
         </activity>
         <activity
             android:name=".settingsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".City_Map_Activity"
             android:screenOrientation="portrait" />
 
     </application>
