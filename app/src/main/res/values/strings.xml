@@ -10,4 +10,6 @@
     <string name="setting">Настройки</string>
     <string name="pressure">Показывать атмосферное давление</string>
     <string name="fell_like_temperature">Показывать темературу по ощущению</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
