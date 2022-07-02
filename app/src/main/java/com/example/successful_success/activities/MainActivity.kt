@@ -1,9 +1,10 @@
-package com.example.successful_success
+package com.example.successful_success.activities
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.example.successful_success.R
 
-class MainActivity() : AppCompatActivity() {
+class MainActivity: AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
